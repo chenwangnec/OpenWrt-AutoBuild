@@ -12,7 +12,7 @@
 
 源码均使用[project-openwrt/openwrt](https://github.com/project-openwrt/openwrt) openwrt-18.06-k5.4分支
 
-**已加入update-checker，每天CST 2:00自动检测源码更新，检测到更新后自动触发编译**
+**已加入update-checker，每天CST 2:00左右自动检测源码更新，检测到更新后自动触发编译**
 
 默认LAN IP:192.168.2.1
 
