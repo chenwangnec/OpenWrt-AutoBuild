@@ -1,9 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=visitors) ![GitHub all releases](https://img.shields.io/github/downloads/stephensund/OpenWrt-AutoBuild/total?style=flat-square)
-## 更新日志
-2021.1.16 由于新版Docker存在已知兼容性问题，R4S先暂不编译Docker类组件   
-2021.1.15 新增本地版sub-web 访问地址为：网关IP/sub-web  [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
+
 ## 简介
-编译个人自用的设备以及部分热门设备的OpenWrt固件，有需要的朋友请移步actions页面[Github Actions](https://github.com/stephensund/Openwrt-Actions/actions)或Release页面[Releases](https://github.com/stephensund/OpenWrt-AutoBuild/releases)自行下载，同时对应的Workflow页面和Release页面会有**奶牛快传**和**WeTransfer**的下载链接（由于奶牛快传政策调整，免费用户上传仅1天有效期）
+编译个人自用的设备以及部分热门设备的OpenWrt固件，actions页面[Github Actions](https://github.com/stephensund/Openwrt-Actions/actions)或Release页面[Releases](https://github.com/stephensund/OpenWrt-AutoBuild/releases)均可下载
 
 **个人无偿兴趣项目，不提供任何技术支持，请多动手上网搜寻相关知识，插件等问题请直接向源码维护者反馈，简介后面贴了一些主要插件的仓库地址**
 
@@ -39,6 +37,8 @@
 
 * Luci-app-openclash [vernesong/Openclash](https://github.com/vernesong/OpenClash)
 
+* 本地版sub-web [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
+
 * Luci-app-smartdns [pymumu/smartdns](https://github.com/pymumu/smartdns)
 
 * Luci-app-adguardhome及其核心文件 [rufengsuixing/luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome) [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
@@ -47,4 +47,4 @@
 
 * Luci-app-https-dns-proxy 其可在指定端口上运行指定服务商的DoH DNS服务，可以与代理配合使用
 
-* Luci-theme-argon以及用于主题自定义设置的Luci-app-argon-config [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)
+* Luci-theme-argon以及Luci-app-argon-config [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)
