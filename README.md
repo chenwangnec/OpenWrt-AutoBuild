@@ -37,7 +37,7 @@
 
 * Luci-app-openclash [vernesong/Openclash](https://github.com/vernesong/OpenClash)
 
-* 本地版sub-web [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
+* （2021.1.15添加）本地版sub-web [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
 
 * Luci-app-smartdns [pymumu/smartdns](https://github.com/pymumu/smartdns)
 
