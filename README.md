@@ -1,6 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=visitors) ![GitHub all releases](https://img.shields.io/github/downloads/stephensund/OpenWrt-AutoBuild/total?style=flat-square)
 
-* 2021.1.24 **鉴于今日project源码作者决定暂时关闭源码，暂时停止自动编译，视事件发展情况源码后续考虑转用lean-lede或lienol**
+* 2021.1.24 **鉴于今日project源码作者决定暂时关闭源码，暂时停止自动编译，视事件发展情况源码后续考虑转用lean-lede或lienol，再次感谢他们的贡献**
 
 ## 简介
 编译一些设备的OpenWrt固件，**仅满足自己需求,加不加功能看心情**
