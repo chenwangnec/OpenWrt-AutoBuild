@@ -10,9 +10,6 @@
 感谢[P3TERX/Actions-Openwrt](https://github.com/P3TERX/Actions-OpenWrt)提供的脚本    
 感谢Lean [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)和CTCGFW's Team [project-openwrt/openwrt](https://github.com/project-openwrt/openwrt)
 
-源码均使用[project-openwrt/openwrt](https://github.com/project-openwrt/openwrt) openwrt-18.06-k5.4分支
-
-**每天CST 2:40左右自动检测源码更新，检测到更新后自动触发编译**
 
 默认LAN IP:192.168.2.1
 
