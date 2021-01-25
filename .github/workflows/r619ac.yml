@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: GDock-OpenWrt
+name: GDock-R619AC
 
 on:
   repository_dispatch:
