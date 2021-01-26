@@ -13,17 +13,6 @@
 
 默认用户名root，密码password
 
-## 编译设备
-|   设备   |  编译状态  |  对应Actions链接  |
-|  ----  |  ----  |  ----  |
-|  X86_64  | ![X86_64](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/X86_64-Openwrt?style=flat-square) |  <a href="https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AX86_64-Openwrt"><img src="https://img.shields.io/badge/Actions-x86__64-blueviolet?style=flat-square" alt="x86_64"></a>  |
-|  ASUS RT-ACRH17  | ![ACRH17](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/ACRH17-Openwrt?style=flat-square) |  <a href="https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AACRH17-Openwrt"><img src="https://img.shields.io/badge/Actions-ACRH17-blueviolet?style=flat-square" alt="ACRH17"></a>  |
-|  竞斗云/P&W R619AC  |  ![GDock](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/GDock-OpenWrt?style=flat-square)  |  <a href="https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AGDock-OpenWrt"><img src="https://img.shields.io/badge/Actions-GDock-blueviolet?style=flat-square" alt="R619AC"></a>  |
-|  XIAOMI-AC2100  |  ![AC2100](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/XIAOMI-AC2100-Openwrt?style=flat-square)  |  <a href="https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AXIAOMI-AC2100-Openwrt"><img src="https://img.shields.io/badge/Actions-AC2100-blueviolet?style=flat-square" alt="AC2100"></a>  |
-|  Nanopi-R2S |  ![Nanopi-R2S](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/Nanopi-R2S-Openwrt?style=flat-square)  |  <a href="https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3ANanopi-R2S-Openwrt"><img src="https://img.shields.io/badge/Actions-R2S-blueviolet?style=flat-square" alt="R2S"></a>  |
-|  REDMI-AC2100  |  ![RM2100](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/REDMI-AC2100-Openwrt?style=flat-square)  |  <a href="https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AREDMI-AC2100-Openwrt"><img src="https://img.shields.io/badge/Actions-RM2100-blueviolet?style=flat-square" alt="RM2100"></a>  |
-|  Nanopi-R4S  |  ![Nanopi-R4S](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/Nanopi-R4S-Openwrt?style=flat-square)  |  <a href="https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3ANanopi-R4S-Openwrt"><img src="https://img.shields.io/badge/Actions-R4S-blueviolet?style=flat-square" alt="R4S"></a>  |
-|  ARMv8通用镜像  |  ![ARMv8](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/ARMv8-Multiplatform?style=flat-square)  |  <a href="https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AARMv8-Multiplatform"><img src="https://img.shields.io/badge/Actions-ARMv8-blueviolet?style=flat-square" alt="ARMv8"></a>  |
 
 ## 主要添加的功能
 固件满足基本的上网/代理需求，暂不过多添加其他功能。
