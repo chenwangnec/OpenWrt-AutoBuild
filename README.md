@@ -8,14 +8,11 @@
 感谢[P3TERX/Actions-Openwrt](https://github.com/P3TERX/Actions-OpenWrt)提供的脚本    
 感谢Lean [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)和CTCGFW's Team [project-openwrt/openwrt](https://github.com/project-openwrt/openwrt)
 
-
 默认LAN IP:192.168.2.1
 
 默认用户名root，密码password
 
-
 ## 主要添加的功能
-固件满足基本的上网/代理需求，暂不过多添加其他功能。
 
 * Luci-app-ssr-plus [fw876/helloworld](https://github.com/fw876/helloworld)
 
