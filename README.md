@@ -28,6 +28,6 @@
 
 * Luci-app-unblockmusic
 
-* Luci-app-https-dns-proxy 其可在指定端口上运行指定服务商的DoH DNS服务，可以与代理配合使用
+* Luci-app-https-dns-proxy
 
 * Luci-theme-argon以及Luci-app-argon-config [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)
