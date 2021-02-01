@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=visitors)
 
 ## 简介
-编译一些设备的OpenWrt固件，**仅满足自己需求**
+编译一些设备的OpenWrt固件，**仅满足自己需求，佛系维护**
 
 **个人无偿兴趣项目，不提供任何技术支持，请多动手上网搜寻相关知识，插件等问题请直接向源码维护者反馈，简介后面贴了一些主要插件的仓库地址**
 
