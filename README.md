@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=visitors) ![GitHub all releases](https://img.shields.io/github/downloads/stephensund/OpenWrt-AutoBuild/total?style=flat-square)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=visitors)
 
 ## 简介
 编译一些设备的OpenWrt固件，**仅满足自己需求**
