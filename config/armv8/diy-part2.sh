@@ -15,3 +15,6 @@ sed -i 's/192.168.1.1/192.168.2.1/g' package/base-files/files/bin/config_generat
 
 # Add luci-app-bypass
 git clone https://github.com/garypang13/luci-app-bypass package/luci-app-bypass
+
+# Add luci-app-dnsfilter
+git clone https://github.com/garypang13/luci-app-dnsfilter package/luci-app-dnsfilter
