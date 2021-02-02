@@ -11,7 +11,7 @@
 默认用户名root，密码password
 
 ## 主要功能
-* luci-app-bypass [luci-app-bypass](https://github.com/garypang13/luci-app-bypass)
+* luci-app-bypass [garypang13/luci-app-bypass](https://github.com/garypang13/luci-app-bypass)
 
 * luci-app-ssr-plus [fw876/helloworld](https://github.com/fw876/helloworld)
 
