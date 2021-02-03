@@ -1,6 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=visitors)
 
-## 简介
+### 简介
 编译一些设备的OpenWrt固件，**仅满足自己需求，有需求请自行云编译**
 
 感谢[P3TERX/Actions-Openwrt](https://github.com/P3TERX/Actions-OpenWrt)提供的脚本    
@@ -10,7 +10,10 @@
 
 默认用户名root，密码password
 
-## 主要功能
+### 设备
+x86_64、R2S/R4S、竞斗云、ACRH17、ARMv8通用镜像
+
+### 主要功能
 * luci-app-bypass [garypang13/luci-app-bypass](https://github.com/garypang13/luci-app-bypass)
 
 * luci-app-ssr-plus [fw876/helloworld](https://github.com/fw876/helloworld)
