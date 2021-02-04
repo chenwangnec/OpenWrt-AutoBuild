@@ -32,7 +32,7 @@ x86_64、R2S/R4S、竞斗云、ACRH17、ARMv8通用镜像
 
 * luci-app-adguardhome及其核心文件 [rufengsuixing/luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome) [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
 
-* luci-app-unblockmusic
+* luci-app-unblockmusic [maxlicheng/luci-app-unblockmusic](https://github.com/maxlicheng/luci-app-unblockmusic)
 
 * luci-app-https-dns-proxy
 
