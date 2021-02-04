@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=visitors)
 
 ### 简介
-编译一些设备的OpenWrt固件，**仅满足自己需求，有需求请自行云编译**
+编译一些设备的OpenWrt固件，**仅满足自己需求，有需求请自行云编译，佛系维护**
 
 感谢[P3TERX/Actions-Openwrt](https://github.com/P3TERX/Actions-OpenWrt)提供的脚本    
 感谢Lean [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)和CTCGFW's Team [project-openwrt/openwrt](https://github.com/project-openwrt/openwrt)
@@ -22,7 +22,9 @@ x86_64、R2S/R4S、竞斗云、ACRH17、ARMv8通用镜像
 
 * luci-app-openclash [vernesong/Openclash](https://github.com/vernesong/OpenClash)
 
-* 本地版sub-web [CareyWang/sub-web](https://github.com/CareyWang/sub-web)
+* luci-app-dnsfilter [garypang13/luci-app-dnsfilter](https://github.com/garypang13/luci-app-dnsfilter)
+
+* luci-app-godproxy（魔改自KoolProxy） [godros/luci-app-godproxy](https://github.com/godros/luci-app-godproxy)
 
 * luci-app-smartdns [pymumu/smartdns](https://github.com/pymumu/smartdns)
 
