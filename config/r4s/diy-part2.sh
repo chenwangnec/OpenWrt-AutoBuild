@@ -18,3 +18,6 @@ git clone https://github.com/garypang13/luci-app-bypass package/luci-app-bypass
 
 # Add luci-app-dnsfilter
 git clone https://github.com/garypang13/luci-app-dnsfilter package/luci-app-dnsfilter
+
+# Add luci-app-godproxy
+git clone https://github.com/godros/luci-app-godproxy.git package/luci-app-godproxy
