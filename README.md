@@ -22,6 +22,8 @@ x86_64、R2S/R4S、竞斗云、ACRH17、ARMv8通用镜像
 
 * luci-app-openclash [vernesong/Openclash](https://github.com/vernesong/OpenClash)
 
+* luci-app-vssr [jerrykuku/luci-app-vssr](https://github.com/jerrykuku/luci-app-vssr)
+
 * luci-app-dnsfilter [garypang13/luci-app-dnsfilter](https://github.com/garypang13/luci-app-dnsfilter)
 
 * luci-app-godproxy（魔改自KoolProxy） [godros/luci-app-godproxy](https://github.com/godros/luci-app-godproxy)
