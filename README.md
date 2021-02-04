@@ -10,7 +10,8 @@
 x86_64、R2S/R4S、竞斗云、ACRH17、ARMv8通用镜像
 
 ### 主要特点
-代理插件五合一（SSRP、Passwall、vssr、Bypass、Openclash），去广告（Adguarhome、dnsfilter、godproxy）    
+代理插件五合一：SSRP、Passwall、vssr、Bypass、Openclash     
+去广告：Adguardhome、dnsfilter、godproxy（魔改自koolproxy）    
 以及UPnP、网易云解锁、smartdns、https-dns-proxy、argon主题等 
 
 ### 鸣谢
