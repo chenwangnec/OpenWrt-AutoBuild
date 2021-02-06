@@ -22,7 +22,7 @@ on:
 #    - cron: 0 0 * * 5
 
 env:
-  REPO_URL: https://github.com/project-openwrt/openwrt
+  REPO_URL: https://github.com/immortalwrt/immortalwrt
   REPO_BRANCH: openwrt-18.06-k5.4
   FEEDS_CONF: config/acrh17/feeds.conf.default
   CONFIG_FILE: config/acrh17/acrh17.config
