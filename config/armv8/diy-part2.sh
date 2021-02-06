@@ -21,3 +21,16 @@ git clone https://github.com/garypang13/luci-app-dnsfilter package/luci-app-dnsf
 
 # Add luci-app-godproxy
 git clone https://github.com/godros/luci-app-godproxy.git package/luci-app-godproxy
+
+# 尝试预置clash核心
+mkdir -p files/etc/openclash/core
+
+clash_main_url=$(curl -sL https://api.github.com/repos/vernesong/OpenClash/releases/tags/Clash | grep /clash-linux-$1 | sed 's/.*url\": \"//g' | sed 's/\"//g')
+clash_tun_url=$(curl -sL https://api.github.com/repos/vernesong/OpenClash/releases/tags/TUN-Premium | grep /clash-linux-$1 | sed 's/.*url\": \"//g' | sed 's/\"//g')
+clash_game_url=$(curl -sL https://api.github.com/repos/vernesong/OpenClash/releases/tags/TUN | grep /clash-linux-$1 | sed 's/.*url\": \"//g' | sed 's/\"//g')
+
+wget -qO- $clash_main_url | tar xOvz > files/etc/openclash/core/clash
+wget -qO- $clash_tun_url | gunzip -c > files/etc/openclash/core/clash_tun
+wget -qO- $clash_game_url | tar xOvz > files/etc/openclash/core/clash_game
+
+chmod +x files/etc/openclash/core/clash*
