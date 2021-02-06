@@ -17,4 +17,4 @@ x86_64、R2S/R4S、竞斗云、ACRH17、ARMv8通用镜像
 ### 鸣谢
 脚本提供：[P3TERX/Actions-Openwrt](https://github.com/P3TERX/Actions-OpenWrt)    
 Lean源码：[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)    
-CTCGFW源码：[project-openwrt/openwrt](https://github.com/project-openwrt/openwrt)
+CTCGFW源码：[immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt)
